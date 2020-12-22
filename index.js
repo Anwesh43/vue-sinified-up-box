@@ -77,3 +77,7 @@ Vue.component('sinified-up-box', {
         }
     }
 })
+
+const app = new Vue({
+    el : '#app'
+})
